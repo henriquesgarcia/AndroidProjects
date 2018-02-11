@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OlxApp</string>
+    <string name="todo">TODO</string>
+    <string name="descricao">Descrição</string>
+    <string name="preco">Preço</string>
+    <string name="editar">Editar</string>
+    <string name="remover">Remover</string>
+    <string name="localizacao">Localização</string>
+    <string name="data">Data (dd/mm/aaaa)</string>
+    <string name="salvar">SALVAR</string>
+    <string name="data_11_02_2018">11/02/2018</string>
+</resources>
